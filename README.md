@@ -11,7 +11,7 @@ A simple React-based Weather Application that fetches current weather data using
 
 ## Demo
 
-You can try the live demo here:
+You can try the live demo here: https://asardeencj7.github.io/weather-app/
 
 ## Screenshots
 
@@ -23,6 +23,8 @@ You can try the live demo here:
 - CSS for styling
 
 ## Getting Started
+
+https://asardeencj7.github.io/weather-app/
 
 ### Prerequisites
 
